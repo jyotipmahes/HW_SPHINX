@@ -1,3 +1,8 @@
 CODE TUTORIAL
 =============
+Set the ec2_address, user, and key_file address under main() in hw_sphinx_Maheswari_Jyoti.py.
+
 Run $python hw_sphinx_Maheswari_Jyoti.py on your terminal.
+
+The script establishes ssh connection from local system and creates/updates virtual environment on ec2-instance based on environment.yml file.
+
